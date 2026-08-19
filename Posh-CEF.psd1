@@ -9,7 +9,7 @@
 @{
 
 # Script module or binary module file associated with this manifest.
-RootModule = 'CEF.psm1'
+RootModule = 'Posh-CEF.psm1'
 
 # Version number of this module.
 ModuleVersion = '1.0'
@@ -104,7 +104,7 @@ PrivateData = @{
         LicenseUri = 'https://opensource.org/license/MIT'
 
         # A URL to the main website for this project.
-        ProjectUri = 'https://github.com/powershellshock/Posh-CEF'
+        # ProjectUri = ''
 
         # A URL to an icon representing this module.
         # IconUri = ''
