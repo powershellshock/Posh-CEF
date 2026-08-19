@@ -104,7 +104,7 @@ PrivateData = @{
         LicenseUri = 'https://opensource.org/license/MIT'
 
         # A URL to the main website for this project.
-        # ProjectUri = ''
+        ProjectUri = 'https://github.com/powershellshock/Posh-CEF'
 
         # A URL to an icon representing this module.
         # IconUri = ''
